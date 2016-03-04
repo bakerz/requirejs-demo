@@ -1,5 +1,4 @@
-define(['jquery'], function($) {
-
+define(function() {
 	return {
 		isEmpty: function() {},
 		checkLength: function() {},
